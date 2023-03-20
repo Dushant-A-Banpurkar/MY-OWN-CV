@@ -1,0 +1,67 @@
+body{
+    margin: solid black;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    text-align: center;
+}
+.tableinfo{
+    margin-left: 100px;
+}
+.edu{
+    margin-left: 100px;
+    border: solid black;
+}
+
+
+td{
+    padding: 20px;
+    
+}
+
+/*img{
+    padding: 100px;
+}
+*/
+.imagealign{
+    padding: 200px;
+}
+
+img{
+    margin-left: 600px;
+    border: solid black;
+}
+
+div{
+    margin: auto;
+}
+
+p{
+     margin-left: 100px;
+}
+
+.tabledata{
+    margin-left: 100px;
+}
+
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-color:black;
+    border-width: 5px;
+    width: 5%;
+}
+
+.textcolor{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: 100px;
+}
+span{
+    background-color:#c0c0c0;
+}
+
+
+.name{
+    text-align: end;
+}
+
